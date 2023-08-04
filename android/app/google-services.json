@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225239693894",
+    "project_id": "agrinote-c5a7a",
+    "storage_bucket": "agrinote-c5a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225239693894:android:cd3141ea763300bd056847",
+        "android_client_info": {
+          "package_name": "com.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225239693894-gga1l4q36ev197nu1f25qmlfgn9k9o9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr2NBuHDkxyUwMZO8ThkXhRALHDRxUBKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225239693894-gga1l4q36ev197nu1f25qmlfgn9k9o9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
